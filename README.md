@@ -90,7 +90,9 @@ This lack of real time insights leads to:
 
 ## 📸 Dashboard Preview
 
-<img width="1272" height="667" alt="Screenshot" src="https://github.com/user-attachments/assets/c67e72e9-c828-4221-a3ae-98fcb79afafe" width="100%"/>
+<p align="center">
+  <img width="1272" height="667" alt="Screenshot" src="https://github.com/user-attachments/assets/c67e72e9-c828-4221-a3ae-98fcb79afafe" width="100%"/>
+</p>
 
 ---
 
